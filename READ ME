@@ -1,0 +1,3 @@
+This is an (unfinished) Vue/Express/MySQL web app for organizing and searching legal briefs and trial testimony. Even today, many law offices are very dependent on paper-based filing systems. Having a system that would allow them to access their catalogue of data would both expedite the office's workflow as well as the quality of their advocacy.
+Currently the MySQL database is populated with the name, date, indictment #, and file location of a small collection of searchable PDF files. The app can accept queries to this database through the Node terminal.
+In the future, I plan on finishing the front-end of this app to handle queries of this data. I also plan on creating a secure login and upload system for individual offices to manage their data securely.
