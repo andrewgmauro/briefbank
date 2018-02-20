@@ -10,14 +10,11 @@ var mysql = require('mysql');
 var connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "07002!Perseus",
-    database: "briefbank"
+    password: "**********",
+    database: "*********"
 });
 
 
-var name
-
-var date = 
 
 
 
